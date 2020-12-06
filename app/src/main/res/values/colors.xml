@@ -11,5 +11,8 @@
     <color name = "blue">#0000FF</color>
     <color name= "light_blue">#769CFE</color>
     <color name="green">#76ff03</color>
+    <color name="blue500">#3399FF</color>
+    <color name="green1000">#009999</color>
+    <color name="blue100">#099FFF</color>
 
 </resources>
