@@ -30,10 +30,11 @@
         android:text="Войти"
         app:backgroundTint="#3F51B5"
         tools:layout_editor_absoluteX="141dp"
-        tools:layout_editor_absoluteY="496dp" />
+        tools:layout_editor_absoluteY="496dp" /><![CDATA[
 
 
     />
 
 
+]]>
 </androidx.constraintlayout.widget.ConstraintLayout>
