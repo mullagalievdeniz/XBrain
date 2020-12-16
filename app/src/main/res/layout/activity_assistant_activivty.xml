@@ -8,6 +8,13 @@
     android:background="@drawable/assistantcolor"
     >
 
-
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="61dp"
+        android:layout_height="64dp"
+        android:background="@drawable/oval_button"
+        app:backgroundTint="#0B2683"
+        tools:layout_editor_absoluteX="186dp"
+        tools:layout_editor_absoluteY="651dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
