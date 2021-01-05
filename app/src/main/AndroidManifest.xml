@@ -9,7 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.XBrain">
-        <activity android:name=".time"></activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.XBrain.NoActionBar"></activity>
+        <activity
+            android:name=".Atoms"
+            android:label="@string/title_activity_atoms"
+            android:theme="@style/Theme.XBrain.NoActionBar" />
+        <activity android:name=".time" />
         <activity android:name=".profile_activity" />
         <activity android:name=".Assistant_activivty" />
         <activity android:name=".MainActivity">

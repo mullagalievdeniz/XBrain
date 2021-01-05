@@ -30,3 +30,11 @@
         tools:layout_editor_absoluteX="30dp"
         tools:layout_editor_absoluteY="184dp" />
 
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="66dp"
+        android:layout_height="70dp"
+        android:src="@android:drawable/ic_input_add"
+        tools:layout_editor_absoluteX="329dp"
+        tools:layout_editor_absoluteY="645dp" />
+

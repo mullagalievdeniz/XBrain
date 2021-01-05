@@ -13,7 +13,7 @@
         android:layout_width="150dp"
         android:layout_height="138dp"
         tools:layout_editor_absoluteX="33dp"
-        tools:layout_editor_absoluteY="122dp"
+        tools:layout_editor_absoluteY="114dp"
         tools:src="@tools:sample/avatars" />
 
     <TextView

@@ -15,7 +15,7 @@ public class Assistant_activivty extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_assistant_activivty);
         btn = (Button) findViewById(R.id.button);
-        btn.s
+
     }
 
 
