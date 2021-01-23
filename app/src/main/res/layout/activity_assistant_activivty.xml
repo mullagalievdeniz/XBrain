@@ -17,4 +17,16 @@
         tools:layout_editor_absoluteX="186dp"
         tools:layout_editor_absoluteY="651dp" />
 
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Привет!"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="37dp"
+        tools:layout_editor_absoluteY="38dp"
+
+        />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

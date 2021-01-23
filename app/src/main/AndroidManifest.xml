@@ -10,9 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.XBrain">
         <activity
+            android:name=".home"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.XBrain.NoActionBar" />
+        <activity
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
-            android:theme="@style/Theme.XBrain.NoActionBar"></activity>
+            android:theme="@style/Theme.XBrain.NoActionBar" />
         <activity
             android:name=".Atoms"
             android:label="@string/title_activity_atoms"

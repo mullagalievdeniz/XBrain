@@ -57,13 +57,15 @@
 
         />
 
-    <ImageButton
-        android:id="@+id/imageButton"
+    <Button
+        android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/ic_dialog_info"
-        tools:layout_editor_absoluteX="180dp"
-        tools:layout_editor_absoluteY="662dp" />
+        android:text="Button"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="644dp"
+        tools:visibility="visible" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -47,10 +47,9 @@
         android:layout_width="122dp"
         android:layout_height="26dp"
         android:text="Введите пароль"
-        tools:layout_editor_absoluteX="19dp"
-        tools:layout_editor_absoluteY="190dp"
         android:textColor="@color/white"
-        and
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="185dp"
 
         />
 
