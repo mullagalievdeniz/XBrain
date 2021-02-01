@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.XBrain">
+        <activity android:name=".aitask"></activity>
         <activity
             android:name=".home"
             android:label="@string/title_activity_home"
